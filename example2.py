@@ -3,7 +3,7 @@ from turtle import *
 s = getscreen()
 t = Turtle()
 
-for i in range(10):
+for i in range(5):
     t.fd (100)
-    t.lt (36)
+    t.lt (72)
 mainloop()
